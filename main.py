@@ -1,0 +1,17 @@
+import turtle
+turtle.Screen().bgcolor("white")
+turtle.Screen().setup(500,500)
+pencil = turtle.Turtle()
+pencil.forward(100)
+pencil.right(60)
+pencil.forward(100)
+pencil.right(60)
+pencil.forward(100)
+pencil.right(60)
+pencil.forward(100)
+pencil.right(60)
+pencil.forward(100)
+pencil.right(60)
+pencil.forward(100)
+
+turtle.done()
